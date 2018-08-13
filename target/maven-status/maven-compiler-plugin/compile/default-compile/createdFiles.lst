@@ -1,8 +1,0 @@
-com\medical\controller\HomeController.class
-com\medical\service\CustomerServiceImpl.class
-com\medical\controller\CustomerController.class
-com\medical\bean\Customer.class
-com\medical\service\CustomerService.class
-com\medical\validation\CustomerValidation.class
-com\medical\dao\CustomerDao.class
-com\medical\dao\CustomerDaoImpl.class
